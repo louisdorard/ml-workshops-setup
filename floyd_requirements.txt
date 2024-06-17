@@ -14,7 +14,7 @@ pandas-profiling
 papermill # for notebook parametrization and execution from CLI
 pydot # dl: used to plot Keras models
 rise # slideshow mode on notebooks
-scikit-learn==0.21.3
+scikit-learn==1.5.0
 seaborn # for plots
 tf-nightly-2.0-preview # dl
 version-information
