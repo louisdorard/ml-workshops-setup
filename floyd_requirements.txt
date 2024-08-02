@@ -5,7 +5,7 @@ h5py==2.8.0rc1 # dl
 hyperopt==0.1.2 # ml-advanced
 joblib
 kaggle
-keras==2.1.6 # dl
+keras==2.13.1 # dl
 lime # optional - prediction explanations
 matplotlib # for plots
 nltk # optional - for text pre-processing
